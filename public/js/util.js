@@ -1,10 +1,8 @@
 ///////////////////////////////////////////////////////
 //
 // File: util.js
-// This function tries to get a Token for a Room
+// This function creates  a Token for a Room
 //
-// Last Updated: 29-11-2018
-// Reformat, Indentation, Inline Comments
 //
 /////////////////////////////////////////////////////
 
